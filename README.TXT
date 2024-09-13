@@ -22,8 +22,8 @@
    ابتدا اسکریپت `setup.sh` را دانلود و اجرا کنید:
 
 ```bash
-   curl -O https://raw.githubusercontent.com/your-username/backup-script/main/setup.sh
-   chmod +x setup.sh
-   ./setup.sh
+curl -O https://raw.githubusercontent.com/nursemazloom/backup-script/main/setup.sh
+chmod +x setup.sh
+./setup.sh
 ```
 2. تمام شد حالا از بکاپ خودکار لذت ببرید
